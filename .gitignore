@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets (excluded from repo - small txt corpora kept for HW1/HW3)
+HW02/data/
+HW05/data/
+HW05/**/ukiyoe2photo*
+
+# Empty/junk files
+HW08/precess.py
