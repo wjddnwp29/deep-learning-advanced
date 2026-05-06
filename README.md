@@ -12,7 +12,7 @@
 | HW04 | GPT 기반 커스텀 챗봇 | GPT-2 파인튜닝 + Gradio 인터페이스 |
 | HW05 | CycleGAN 실습 및 개선 | Transform·하이퍼파라미터·구조·Normalization·Albumentations 등 6개 실험 |
 | HW06 | DDPM 실습 | DDPM 구현, 학습량·EMA 실험 (CIFAR-10) |
-| HW07 | 기말과제 제안서 | Consistency Models 활용 반도체 웨이퍼 결함 패턴 생성 (제안) |
+| HW07 | 기말과제 제안서 | Consistency Models 활용 반도체 웨이퍼 결함 패턴 생성 |
 | HW08 | 기말 과제 | DDPM·DDIM·CM 구현, FID 평가, 클래스별 비교 (WM-811K) |
 
 ## 데이터셋
