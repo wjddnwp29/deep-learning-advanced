@@ -20,7 +20,3 @@
 - HW02: `data/*.parquet`
 - HW05: `ukiyoe2photo` (Kaggle에서 별도 다운로드)
 - HW08: WM-811K — 노트북에서 `kagglehub`로 자동 다운로드
-
-## 노트북 출력
-
-HW06은 원본이 GitHub 단일 파일 제한(100MB)을 초과해 출력만 제거함. 시각화 결과는 `HW06/experiment_*` 폴더에 별도 보존.
