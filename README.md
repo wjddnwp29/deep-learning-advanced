@@ -20,3 +20,8 @@
 - HW02: `data/*.parquet`
 - HW05: `ukiyoe2photo` (Kaggle에서 별도 다운로드)
 - HW08: WM-811K — 노트북에서 `kagglehub`로 자동 다운로드
+
+## 학술대회
+* 2026 하계종합술학술대회 및 대학생논문경진대회
+  * Consistency Models 활용 반도체 웨이퍼 결함 패턴 생성
+  * Transform·하이퍼파라미터·구조·Normalization·Albumentations 등 6개 실험
